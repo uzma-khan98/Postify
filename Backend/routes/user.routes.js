@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { signin } from "../controllers/user.controller.js";
+import { signin } from "../controllers/user.controllers.js";
 
 
 

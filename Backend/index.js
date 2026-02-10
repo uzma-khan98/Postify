@@ -1,5 +1,5 @@
 import express from "express";
-import {signin} from './controllers/user.controller.js'
+import userRouter from "./routes/user.routes.js";
 
 const app = express();
 
